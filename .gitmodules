@@ -1,6 +1,6 @@
-[submodule "src/riscv_benos"]
-	path = src/riscv_benos
-	url = https://github.com/kaishaoshao/riscv_programming_practice.git
 [submodule "src/riscv_programming_practice"]
 	path = src/riscv_programming_practice
 	url = https://github.com/kaishaoshao/riscv_programming_practice.git
+[submodule "src/riscv_benos"]
+	path = src/riscv_benos
+	url = git@github.com:kaishaoshao/riscv_programming_practice.git
